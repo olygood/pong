@@ -12,8 +12,5 @@ game canvas vanilla javascript
 2. deux 
 3. trois ////     ![test2.png](test2.png)  
 
-## voila le test est fini
+## voila le test est fini  
 
-***  
-___  
----  

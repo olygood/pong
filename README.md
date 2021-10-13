@@ -10,9 +10,7 @@ game canvas vanilla javascript
 
 1. un
 2. deux 
-3. trois
-
-![test2.png](test2.png)  
+3. trois![test2.png](test2.png)  
 
 ## voila le test est fini
 

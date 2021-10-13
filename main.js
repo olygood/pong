@@ -3,12 +3,8 @@ const canva = document.getElementById('canva');
 let ctx = canva.getContext('2d');
 const  log = document.getElementById('log');
 
-
-
 canva.width = 600;
 canva.height = 400; 
-
-
 
 let pad = {
     x : 0,
@@ -119,13 +115,6 @@ function update()
 
         
 };
-  
-
-
-
-
-      
-    
 
 function draw()
 {
@@ -149,7 +138,7 @@ function draw()
 
 function logKeyPad(e) {
     let key = e.code;
-    console.log(e);
+    
     if(key =="KeyQ" && pad.y > 0){
         pad.y -= 1 * pad.vitesseY;
         
@@ -163,7 +152,7 @@ function logKeyPad(e) {
 }
 function logKeyPad2(e){
     let key  = e.code;
-    console.log(e);
+  
     if(key =="ArrowUp" && pad2.y>0){
         pad2.y -=1 *pad2.vitesseY;
     }

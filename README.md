@@ -14,3 +14,6 @@ game canvas vanilla javascript
 
 ## voila le test est fini
 
+***  
+___  
+---  

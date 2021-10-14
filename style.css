@@ -1,4 +1,11 @@
 #canva{
-    border: 2px solid grey;
-    background: rgba(200, 230, 230, 0.431);
+    border: 4px solid grey;
+    background: rgb(248, 114, 3);
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
 }

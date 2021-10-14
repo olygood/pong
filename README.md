@@ -1,6 +1,6 @@
 # Pong
 
-![imgPong.jpg](Pong%20016030f6aa3a41f5a44a30c36a0058d1/imgPong.jpg)
+![imgPong.jpg]()
 
 ## Difficulté du jeu  :
 
@@ -28,7 +28,8 @@
 
 ## son impact mur perdu
 
-[Impact Body Heavy.wav](Pong%20016030f6aa3a41f5a44a30c36a0058d1/Impact_Body_Heavy.wav)
+[Impact Body Heavy.wav](Impact_Body_Heavy.wav)  
+
 
 
 

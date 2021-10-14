@@ -1,4 +1,4 @@
-// varaibles
+// variables
 const canva = document.getElementById('canva');
 let ctx = canva.getContext('2d');
 const  log = document.getElementById('log');

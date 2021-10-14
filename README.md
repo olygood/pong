@@ -1,6 +1,6 @@
 # Pong
 
-![imgPong.jpg]()
+![imgPong.jpg](imgPong.jpg)  
 
 ## Difficulté du jeu  :
 

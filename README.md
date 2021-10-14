@@ -1,4 +1,6 @@
 # Pong
+https://forest-playroom-e3f.notion.site/Pong-246f6a3b7c704c04b31982e57606860c  
+[notion](https://forest-playroom-e3f.notion.site/Pong-246f6a3b7c704c04b31982e57606860c)  
 
 ![imgPong.jpg](imgPong.jpg)  
 
